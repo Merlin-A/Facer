@@ -8,7 +8,7 @@ Mr. Sundar Pichai,
 Mr. Satya Nadella,
 PM India Mr. Narendra Modi,
 POTUS Mr. Joe Biden,
-Mr. ELon Musk,
+Mr. Elon Musk,
 Mr. Jeff Bezos,
 
 Their dataset has been stored in the Images directory.
