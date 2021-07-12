@@ -6,7 +6,7 @@ The execultable file is located in build/exe.win-amd64-3.9/.
 By default the app is capable of recognizing Six faces which include,
 Mr. Sundar Pichai,
 Mr. Satya Nadella,
-PM India Mr. Narendra Modi,,
+PM India Mr. Narendra Modi,
 POTUS Mr. Joe Biden,
 Mr. ELon Musk,
 Mr. Jeff Bezos,
