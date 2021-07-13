@@ -1,5 +1,7 @@
 # Facer
-#Developed By:- Aditya A.
+Developed By:- Aditya A.
+
+
 Facer is a face recognition application created in Python using Machine Learning and various other libraries
 The Source code file is main.py 
 The execultable file is located in build/exe.win-amd64-3.9/.
