@@ -1,7 +1,7 @@
 <h1>         Facer </h1>
 
 
-<h2>Developed By:- Aditya A.</h2>
+**Developed By:- Aditya A**
 
 <p>
 Facer is a face recognition application created in Python using Machine Learning and various other libraries
