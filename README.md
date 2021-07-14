@@ -13,12 +13,12 @@ The Source code file is main.py
 The execultable file is located in build/exe.win-amd64-3.9/.
 
 By default the app is capable of recognizing Six faces which include,
-Mr. Sundar Pichai,
-Mr. Satya Nadella,
-PM India Mr. Narendra Modi,
-POTUS Mr. Joe Biden,
-Mr. Elon Musk,
-Mr. Jeff Bezos,
+<l> Mr. Sundar Pichai </l>
+<l>Mr. Satya Nadella</l>
+<l>Mr. Narendra Modi</l>
+<l>Mr. Joe Biden</l>
+<l>Mr. Elon Musk</l>
+<l>Mr. Jeff Bezos</l>
 
 Their dataset has been stored in the Images directory.
 It's recognizing capacity can be easily increased to any number by importing images in the Images directory and doing the appropriate changes in the source code.
