@@ -1,5 +1,6 @@
-![facial-recognition-icon](https://user-images.githubusercontent.com/78374254/125729267-6b65548f-d87d-48b5-a98c-88354e08e0d0.png)
+
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) \
+
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 
