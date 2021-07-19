@@ -10,7 +10,7 @@
 **Developed By:- Aditya A**
 
 <p>
-Facer is a face recognition application created in Python using Machine Learning along with other libraries.
+Facer is a face recognition application created in Python using Machine Learning and Data Science along with other python libraries and platforms.
 The Source code file is main.py 
 The execultable file is located in build/exe.win-amd64-3.9/. </p>
 
